@@ -32,4 +32,4 @@ Character Patterns: Explore alphabetical patterns using ASCII values and charact
 How to Contribute 🤝
 If you have any new patterns to suggest or improvements to the existing code, feel free to fork this repository and make a pull request!
 
-Check out the repository here.
+Check out the repository [here](https://github.com/sana-developer/Pattern-Problems/blob/main/Patterns.cpp).
